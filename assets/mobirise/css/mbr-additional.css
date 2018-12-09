@@ -2236,6 +2236,53 @@ body {
 .cid-qTkzRZLJNu .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
+.cid-rbHqhymJZe .media-content {
+  word-wrap: break-word;
+}
+.cid-rbHqhymJZe .form-inline {
+  display: block;
+}
+.cid-rbHqhymJZe .form-inline .form-group {
+  padding: 0.5rem;
+  display: inline-block;
+}
+.cid-rbHqhymJZe .form-inline .buttons-wrap {
+  display: inline-block;
+}
+.cid-rbHqhymJZe .form-inline input {
+  text-align: center;
+}
+.cid-rbHqhymJZe .mbr-figure {
+  padding-bottom: 2rem;
+}
+@media (min-width: 992px) {
+  .cid-rbHqhymJZe .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 992px) {
+  .cid-rbHqhymJZe .mbr-text {
+    text-align: center;
+  }
+  .cid-rbHqhymJZe .form-inline {
+    text-align: center;
+  }
+}
+@media (max-width: 768px) {
+  .cid-rbHqhymJZe .form-inline input {
+    font-size: .85rem;
+  }
+}
+.cid-rbHqhymJZe H1 {
+  color: #f7ed4a;
+  text-align: center;
+}
+.cid-rbHqhymJZe .mbr-text,
+.cid-rbHqhymJZe .mbr-section-btn,
+.cid-rbHqhymJZe .form-inline {
+  color: #2acb6d;
+  text-align: center;
+}
 .cid-qTkzRZLJNu .navbar {
   padding: .5rem 0;
   background: #333333;
